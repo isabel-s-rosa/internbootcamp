@@ -1,0 +1,141 @@
+2019-05-29 12:54:06.042 - DBeaver 6.0.5.201905192012 is starting
+2019-05-29 12:54:06.044 - OS: Windows 10 10.0 (amd64)
+2019-05-29 12:54:06.045 - Java version: 1.8.0_77 by Oracle Corporation (64bit)
+2019-05-29 12:54:06.048 - Install path: 'file:/C:/Program Files/DBeaver/'
+2019-05-29 12:54:06.050 - Instance path: 'file:/C:/Users/irosa/.dbeaver4/'
+2019-05-29 12:54:06.052 - Memory available 122Mb/910Mb
+2019-05-29 12:54:06.064 - Starting RMI server at 42008
+2019-05-29 12:54:06.191 - Run workbench
+2019-05-29 12:54:06.206 - > Start org.eclipse.e4.ui.workbench.swt [0.14.500.v20190214-0851]
+2019-05-29 12:54:06.211 - > Start org.eclipse.e4.core.services [2.1.400.v20181215-2145]
+2019-05-29 12:54:06.214 - > Start org.eclipse.e4.core.contexts [1.8.0.v20190214-1713]
+2019-05-29 12:54:06.227 - > Start org.eclipse.e4.ui.services [1.3.400.v20190212-2214]
+2019-05-29 12:54:06.286 - > Start org.eclipse.e4.ui.di [1.2.500.v20190214-1316]
+2019-05-29 12:54:06.335 - > Start com.ibm.icu.base [58.2.0.v20170418-1837]
+2019-05-29 12:54:06.339 - > Start org.eclipse.emf.common [2.15.0.v20181220-0846]
+2019-05-29 12:54:06.365 - > Start org.eclipse.emf.ecore [2.17.0.v20190116-0940]
+2019-05-29 12:54:06.430 - > Start org.eclipse.emf.ecore.xmi [2.15.0.v20180706-1146]
+2019-05-29 12:54:06.652 - > Start org.eclipse.core.resources [3.13.300.v20190218-2054]
+2019-05-29 12:54:06.659 - > Start org.eclipse.core.filesystem [1.7.300.v20190218-2054]
+2019-05-29 12:54:06.739 - > Start org.eclipse.e4.ui.workbench.addons.swt [1.3.400.v20190224-1542]
+2019-05-29 12:54:06.752 - > Start org.eclipse.core.expressions [3.6.300.v20190218-1215]
+2019-05-29 12:54:06.769 - > Start org.eclipse.e4.ui.workbench.renderers.swt [0.14.500.v20190220-1002]
+2019-05-29 12:54:06.879 - > Start org.eclipse.e4.ui.bindings [0.12.400.v20190131-1604]
+2019-05-29 12:54:06.922 - > Start org.eclipse.e4.core.di.extensions [0.15.300.v20190213-1308]
+2019-05-29 12:54:07.222 - > Start org.eclipse.e4.ui.css.swt [0.13.400.v20190223-1254]
+2019-05-29 12:54:07.275 - > Start org.eclipse.e4.ui.css.swt.theme [0.12.200.v20190212-2214]
+2019-05-29 12:54:07.441 - > Start org.jkiss.dbeaver.ui [5.1.24.201905192012]
+2019-05-29 12:54:07.546 - > Start org.eclipse.ui.themes [1.2.400.v20190223-1254]
+2019-05-29 12:54:07.738 - Initializing DBeaver 6.0.5
+2019-05-29 12:54:07.742 - Host plugin: org.jkiss.dbeaver.core.application 6.0.5.201905192012
+2019-05-29 12:54:07.744 - Initialize Core...
+2019-05-29 12:54:07.751 - Can't find BC security provider. Use default JCE.
+2019-05-29 12:54:07.753 - BouncyCastle not registered, using the default JCE provider
+2019-05-29 12:54:07.760 - > Start org.jkiss.dbeaver.registry [1.0.3.201905192012]
+2019-05-29 12:54:08.116 - > Start org.eclipse.team.core [3.8.500.v20190216-2155]
+2019-05-29 12:54:08.497 - Total database drivers: 73 (73)
+2019-05-29 12:54:08.516 - > Start org.jkiss.dbeaver.ui.navigator [1.0.9.201905192012]
+2019-05-29 12:54:08.518 - Project [P/General] already added
+2019-05-29 12:54:08.532 - > Start org.eclipse.equinox.security [1.3.100.v20190215-2139]
+2019-05-29 12:54:08.546 - > Start org.eclipse.ui.net [1.3.300.v20180827-1041]
+2019-05-29 12:54:08.548 - Proxy service 'org.eclipse.core.net.proxy.IProxyService' loaded
+2019-05-29 12:54:08.551 - > Start org.eclipse.core.net [1.3.400.v20181030-1645]
+2019-05-29 12:54:08.555 - Core initialized (811ms)
+2019-05-29 12:54:08.557 - Configure workbench window
+2019-05-29 12:54:08.568 - > Start org.eclipse.help [3.8.300.v20190216-1017]
+2019-05-29 12:54:08.682 - Create actions
+2019-05-29 12:54:08.691 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2019-05-29 12:54:08.694 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2019-05-29 12:54:09.286 - > Start org.eclipse.ui.editors [3.11.400.v20190218-1547]
+2019-05-29 12:54:09.288 - > Start org.eclipse.core.filebuffers [3.6.500.v20190218-1547]
+2019-05-29 12:54:10.118 - > Start org.jkiss.dbeaver.ext.erd [2.0.111.201905192012]
+2019-05-29 12:54:10.129 - > Start org.jkiss.dbeaver.ui.editors.sql [1.0.9.201905192012]
+2019-05-29 12:54:10.462 - > Start org.jkiss.dbeaver.ui.editors.base [1.0.9.201905192012]
+2019-05-29 12:54:10.684 - > Start org.eclipse.ui.workbench.texteditor [3.11.300.v20190218-2126]
+2019-05-29 12:54:10.720 - Initialize workbench window
+2019-05-29 12:54:10.727 - Finish initialization
+2019-05-29 12:54:10.988 - > Start org.eclipse.equinox.p2.core [2.6.0.v20190215-2242]
+2019-05-29 12:54:10.992 - > Start org.eclipse.equinox.p2.operations [2.5.300.v20190202-1801]
+2019-05-29 12:54:10.999 - > Start org.eclipse.equinox.p2.engine [2.6.200.v20190215-2242]
+2019-05-29 12:54:11.011 - > Start org.eclipse.equinox.p2.metadata [2.4.300.v20190215-2242]
+2019-05-29 12:54:11.073 - > Start org.eclipse.equinox.p2.ui.sdk.scheduler [1.4.200.v20181102-0649]
+2019-05-29 12:54:11.078 - > Start org.eclipse.equinox.p2.updatechecker [1.2.100.v20180827-1122]
+2019-05-29 12:54:11.088 - > Start org.eclipse.equinox.p2.metadata.repository [1.3.100.v20180822-1302]
+2019-05-29 12:54:11.092 - > Start org.eclipse.equinox.p2.repository [2.4.300.v20190215-2242]
+2019-05-29 12:54:11.509 - > Start org.jkiss.dbeaver.ui.editors.data [1.0.9.201905192012]
+2019-05-29 12:54:11.563 - > Start org.eclipse.equinox.p2.ui [2.5.500.v20190220-1158]
+2019-05-29 12:54:11.700 - > Start org.jkiss.dbeaver.ext.sample.database [1.0.46.201905192012]
+2019-05-29 12:54:11.703 - > Start org.jkiss.dbeaver.ext.ui.tipoftheday [1.0.15.201905192012]
+2019-05-29 12:54:11.715 - > Start org.jkiss.dbeaver.ui.editors.connection [1.0.0.201905192012]
+2019-05-29 12:54:13.942 - Open [https://dbeaver.io/product/version.xml]
+2019-05-29 12:54:45.464 - > Start org.jkiss.dbeaver.ext.postgresql.ui [1.0.0.201905192012]
+2019-05-29 12:54:45.498 - > Start org.jkiss.dbeaver.ext.postgresql [2.1.82.201905192012]
+May 29, 2019 12:54:45 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2019-05-29 12:55:27.891 - > Start org.jkiss.dbeaver.ext.generic [2.3.95.201905192012]
+2019-05-29 13:20:52.821 - Connect with 'PostgreSQL - postgres' (postgres-jdbc-16b04bae474-596291b3e36a8f2f)
+2019-05-29 13:20:52.868 - Initiate connection to PostgreSQL database [postgres@localhost] for Main
+2019-05-29 13:20:53.089 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.pom]
+2019-05-29 13:20:53.209 - Open [https://repo1.maven.org/maven2/org/postgresql/pgjdbc-core-parent/1.1.5/pgjdbc-core-parent-1.1.5.pom]
+2019-05-29 13:20:53.226 - Open [https://repo1.maven.org/maven2/org/postgresql/pgjdbc-versions/1.1.5/pgjdbc-versions-1.1.5.pom]
+2019-05-29 13:21:03.471 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar]
+2019-05-29 13:21:03.623 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.2.1/postgis-jdbc-2.2.1.pom]
+2019-05-29 13:21:03.633 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-java-aggregator/2.2.1/postgis-java-aggregator-2.2.1.pom]
+2019-05-29 13:21:03.646 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.2.1/postgis-jdbc-2.2.1.jar]
+2019-05-29 13:21:03.859 - Initiate connection to PostgreSQL database [postgres@localhost] for Metadata
+2019-05-29 13:21:03.954 - Connected (postgres-jdbc-16b04bae474-596291b3e36a8f2f, PostgreSQL JDBC Driver [42.2.5])
+May 29, 2019 1:21:30 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,14]: 'object.utility || object.external;' inaccessible or unknown property object
+May 29, 2019 1:21:30 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![18,33]: 'object.utility || object.external;' inaccessible or unknown property object
+May 29, 2019 1:21:30 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,13]: 'object.system;' inaccessible or unknown property object
+May 29, 2019 1:21:30 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,14]: 'object.utility || object.external;' inaccessible or unknown property object
+May 29, 2019 1:21:30 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![18,33]: 'object.utility || object.external;' inaccessible or unknown property object
+May 29, 2019 1:21:30 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,13]: 'object.system;' inaccessible or unknown property object
+2019-05-29 13:22:44.716 - > Start org.eclipse.compare.core [3.6.400.v20190214-2156]
+2019-05-29 13:26:37.844 - Can't get column 'proisagg': The column name proisagg was not found in this ResultSet.
+2019-05-29 13:26:37.847 - Can't get column 'proiswindow': The column name proiswindow was not found in this ResultSet.
+2019-05-29 13:32:14.999 - Error executing query
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [3F000]: ERROR: schema "intern" does not exist
+  Position: 14
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:134)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:467)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$0(SQLQueryJob.java:407)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:146)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:405)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:849)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:2727)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:98)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:146)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:96)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: schema "intern" does not exist
+  Position: 14
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2440)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2183)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:308)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:441)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:365)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:307)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:293)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:270)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:266)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:338)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 11 more
+May 29, 2019 1:40:33 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![17,32]: '!object.view && !object.external;' inaccessible or unknown property object
+2019-05-29 13:45:39.090 - Delete empty SQL script '\General\Scripts\Script-2.sql'
+2019-05-29 13:46:00.902 - > Start org.eclipse.gef [3.11.0.201606061308]
+2019-05-29 13:46:00.922 - > Start org.eclipse.draw2d [3.10.100.201606061308]
+May 29, 2019 1:46:04 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![17,32]: '!object.view && !object.external;' inaccessible or unknown property object
+May 29, 2019 1:46:30 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![17,32]: '!object.view && !object.external;' inaccessible or unknown property object
+May 29, 2019 1:46:43 PM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![17,32]: '!object.view && !object.external;' inaccessible or unknown property object

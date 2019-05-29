@@ -1,0 +1,14 @@
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\bin\Debug\netcoreapp2.1\Intern.deps.json
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\bin\Debug\netcoreapp2.1\Intern.runtimeconfig.json
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\bin\Debug\netcoreapp2.1\Intern.runtimeconfig.dev.json
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\bin\Debug\netcoreapp2.1\Intern.dll
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\bin\Debug\netcoreapp2.1\Intern.pdb
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.csprojAssemblyReference.cache
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.csproj.CoreCompileInputs.cache
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.RazorAssemblyInfo.cache
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.RazorAssemblyInfo.cs
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.AssemblyInfoInputs.cache
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.AssemblyInfo.cs
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.RazorTargetAssemblyInfo.cache
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.dll
+\\imofiles\users\irosa\My Documents\bootcamp\services\Intern\obj\Debug\netcoreapp2.1\Intern.pdb
